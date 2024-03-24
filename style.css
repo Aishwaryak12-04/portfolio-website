@@ -166,7 +166,7 @@ section .title::after{
 
 .home {
     display: flex;
-    background: url("Downloads/modern-office-desk-workspace-with-empty-space-pencil-eyeglasses-notebook-top-view_67155-39388.avif") no-repeat center;
+    background: url("modern-office-desk-workspace-with-empty-space-pencil-eyeglasses-notebook-top-view_67155-39388.avif") no-repeat center;
     height: 100vh;
     color: #18aa92;
     min-height: 500px;
